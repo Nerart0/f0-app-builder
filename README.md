@@ -44,7 +44,7 @@ Point it at a repo, run it, and it handles the rest:
 2. Open it and set `repo_url` to the repository you want to build:
 
    ```lua
-   repo_url = "https://github.com/i12bp8/TagTinker"
+   repo_url = "https://github.com/your-url"
    ```
 
 3. Run it with Lua:
@@ -87,5 +87,5 @@ Build_App()
 ---
 
 <div align="center">
-Made with 🖤 by <b>nerart</b>
+Made with 🖤 by <b>Nerart</b>
 </div>

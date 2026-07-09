@@ -50,7 +50,7 @@ Point it at a repo, run it, and it handles the rest:
 3. Run it with Lua:
 
    ```bash
-   lua build.lua
+   lua app-builder.lua
    ```
 
 The script will detect your OS, install missing dependencies, clone the repo, arrange the files, and kick off the build automatically.

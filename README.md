@@ -86,12 +86,6 @@ Build_App()
 
 ---
 
-## 📄 License
-
-MIT.
-
----
-
 <div align="center">
 Made with 🖤 by <b>nerart</b>
 </div>

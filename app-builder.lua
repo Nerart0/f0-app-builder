@@ -1,6 +1,6 @@
 -- script made by Nerart. / v1;
 is_linux = nil -- check if your os is linux or windows.
-repo_url = "https://github.com/i12bp8/TagTinker" -- replace your repositorium link here.
+repo_url = "https://github.com/your-link" -- replace your repositorium link here.
 
 local function CheckOS()
     if package.config:sub(1,1) == "\\" then

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 TagTinker Auto Builder
+# 🔧 Lua Auto Builder
 
 **A lightweight Lua script that automates cloning, preparing, and building a Flipper Zero application with [uFBT](https://github.com/flipperdevices/flipperzero-ufbt).**
 

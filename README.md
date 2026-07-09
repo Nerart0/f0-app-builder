@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 Lua Auto Builder
+# 🔧 Lua Auto Application Builder
 
 **A lightweight Lua script that automates cloning, preparing, and building a Flipper Zero application with [uFBT](https://github.com/flipperdevices/flipperzero-ufbt).**
 

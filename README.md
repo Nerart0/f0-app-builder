@@ -4,9 +4,9 @@
 
 **A lightweight Lua script that automates cloning, preparing, and building a Flipper Zero application with [uFBT](https://github.com/flipperdevices/flipperzero-ufbt).**
 
-![Lua](https://img.shields.io/badge/Lua-5.x-blue?logo=lua)
+![Lua](https://img.shields.io/badge/Lua-5.5-blue?logo=lua)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
-![Made by](https://img.shields.io/badge/made%20by-retr0-orange)
+![Made by](https://img.shields.io/badge/made%20by-nerart-orange)
 ![Version](https://img.shields.io/badge/version-v1-brightgreen)
 
 </div>
@@ -30,7 +30,7 @@ Point it at a repo, run it, and it handles the rest:
 
 | Tool | Notes |
 |---|---|
-| [Lua](https://www.lua.org/) | 5.x interpreter |
+| [Lua](https://www.lua.org/) | 5.5 interpreter |
 | [Git](https://git-scm.com/) | must be available in `PATH` |
 | Python 3 + `pip` | used to install/run `ufbt` |
 | Internet connection | for cloning & installing `ufbt` |

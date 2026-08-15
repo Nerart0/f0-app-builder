@@ -6,7 +6,6 @@
 
 ![Lua](https://img.shields.io/badge/Lua-5.5-blue?logo=lua)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
-![Made by](https://img.shields.io/badge/made%20by-nerart-orange)
 ![Version](https://img.shields.io/badge/version-v1-brightgreen)
 
 </div>
